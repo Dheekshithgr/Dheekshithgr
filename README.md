@@ -1,19 +1,14 @@
-# 💫 About Me
+# About Me
 
-🔭 I’m currently working on  
-RepoIntel — a tool that analyzes GitHub repositories and extracts useful project information.
+I'm a 2nd-year AI & Data Science engineering student at MS Ramaiah Institute of Technology, interested in building practical solutions using Python, AI/ML, Data Science, and Cloud technologies.
 
-👯 I’m looking to collaborate on  
-AI/ML, Python, Data Science, Open Source, and interesting student projects.
+Currently building **Repontel**, a tool that analyzes GitHub repositories and extracts useful project insights.
 
-🤝 I’m looking for help with  
-Improving my DSA, system design fundamentals, and building better real-world AI/ML projects.
+I'm currently learning **DSA with Python, AWS/Cloud, FastAPI, AI/ML, and Git/GitHub**.
 
-🌱 I’m currently learning  
-DSA with Python, AWS/Cloud, FastAPI, AI/ML, and Git/GitHub.
+My areas of interest include **AI/ML, Data Science, Backend Development, Cloud Computing, and Open Source**.
 
-💬 Ask me about  
-Python, SQL, Data Science, GitHub, AI/ML projects, and my journey in AI & Data Science.
+I'm open to collaborating on **AI/ML, Data Science, Open Source, and student projects**.
 
 ## 🌐 Socials
 
